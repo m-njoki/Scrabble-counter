@@ -1,0 +1,49 @@
+body {
+    background-image: url("scrabble.jpeg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#main {
+    margin: auto;
+    width: 400px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow: 0 0 4px white;
+}
+
+h2 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-shadow: 0 0 5px white;
+}
+
+p {
+    font-size: 28px;
+    text-shadow: 0 0 4px white;
+}
+
+button {
+    border: none;
+    padding: 10px 0px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+}
+
+#increment-btn {
+    background: teal;
+}
+
+#save-btn {
+    background: cyan;
+}
+
